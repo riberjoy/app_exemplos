@@ -1,0 +1,26 @@
+.text-home{
+    background-color: rgb(90, 126, 126);
+    padding: 10%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 20pt;
+}
+
+.image-list{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-item-first{
+    width: 30%;
+    height: 50%;
+    margin-right: 5%;
+}
+
+.image-item-sec{
+    width: 15%;
+    // height: 50%;
+}
